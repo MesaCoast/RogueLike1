@@ -1,0 +1,18 @@
+To install this application~
+
+First install Java, which can be found at https://java.com/en/download/
+
+To run the application~
+
+Execute Game at the command line, including libjcsi.jar in the classpath. (In Command Prompt, this should look something like: java -cp "libjcsi.jar;." Game)
+
+If that doesn't work for some reason, you'll need to install the JDK and compile it yourself while including libjcsi.jar and this directory in the classpath.
+
+Then execute Game while using the same classpath as above.
+
+I have no ownership over the libjcsi library, which is covered under the GNU Lesser General Public License.
+
+This is just a personal project I thought would be fun to do, and it's currently a work in progress (for example, I'm still fixing the Summoner class).
+Don't expect stunning 4K graphics @60 fps :)
+
+Contact: coatess@purdue.edu or sam@ryancoates.com

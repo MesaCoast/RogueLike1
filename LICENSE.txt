@@ -1,0 +1,12 @@
+This application requires the libjcsi library, which is covered under the GNU LGPL.
+
+The terms of the GNU LGPL are found at this website:
+https://www.gnu.org/licenses/lgpl-3.0.en.html
+
+The library itself is not included in this distribution, but may be found through the website:
+http://slashie.net/libjcsi/
+
+To install and run the game:
+1) Download the libjcsi library and the JRE
+2) Place the libjcsi library's libjcsi.jar file in the same directory as the RogueLike1.jar file
+3) Execute the RogueLike1.jar file
